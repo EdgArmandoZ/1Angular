@@ -3,6 +3,7 @@ import { Formulario7Component } from './formulario7/formulario7.component';
 import { RouterOutlet } from '@angular/router';
 
 
+
 @Component({
   selector: 'app-root',
   standalone: true,
@@ -11,5 +12,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title= 'borrar'
+  title= 'editar'
 }
